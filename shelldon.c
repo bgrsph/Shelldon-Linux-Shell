@@ -1,10 +1,4 @@
-/*
- * shelldon interface program
 
-KUSIS ID: 53694  PARTNER NAME: Buğra Sipahioğlu
-KUSIS ID: 54020  PARTNER NAME: Orçun Özdemir
-
- */
 #include <stdio.h>
 #include <unistd.h>
 #include <errno.h>
